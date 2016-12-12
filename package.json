@@ -1,7 +1,7 @@
 {
   "name": "@mic/yarn",
   "installationMethod": "unknown",
-  "version": "0.18.0-mic.3",
+  "version": "0.18.0-mic.4",
   "license": "BSD-2-Clause",
   "preferGlobal": true,
   "dependencies": {
